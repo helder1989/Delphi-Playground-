@@ -1,3 +1,3 @@
-# Delphi-Playground-
+### Cadastro de livraria 
 
-### Desenvolvimento...
+Nesse experimento criei uma tela, interface gráfica simples para uma livraria, aplicando alguns compomentes presentes na palette Standard, mais comuns que são utilizados em criação de tela. Tendo em vista que ainda não foi desenvolvido funcionalidades para que a mesma possa funcionar, não foi integrado até o momento a um banco de dados para que possamos salvar informações. 
