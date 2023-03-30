@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/23 22:00:14.000.062,=C:\Users\LATITUDE 7390\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 18:54:56.000.494,=C:\Users\LATITUDE 7390\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/29 19:58:13.000.906,C:\Users\LATITUDE 7390\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\LATITUDE 7390\Documents\Delphi-Playground-\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/03/29 19:58:13.000.906,C:\Users\LATITUDE 7390\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LATITUDE 7390\Documents\Delphi-Playground-\UnitPrincipal.dfm</Transaction>
+    <Transaction>2023/03/29 19:59:14.000.448,C:\Users\LATITUDE 7390\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\LATITUDE 7390\Documents\Delphi-Playground-\Tela de cadastro\Cadastro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
