@@ -7,5 +7,10 @@ Nesse experimento criei uma tela, interface gráfica simples para uma livraria, 
 A ideia aqui é criar um **Menu Principal** para um sistema. Um **menu** Semelhante ao menu da parte superior do Delphi.
 Aplicando o componente menu (TMainMenu) que nos fornece um editor, no qual vamos criar a estrutura do menu principal, localizado na palette Standard. Criando inclusive Submenu e atalho. 
 
+### Tela de Cadastro Completa
+
+A visão aqui é criar uma tela de cadastro completa, porém ainda sem acesso à banco de dados, ou seja, somente a interface gráfica, a **tela do usuário**. 
+
+
 
 

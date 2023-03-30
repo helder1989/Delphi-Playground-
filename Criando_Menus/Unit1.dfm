@@ -65,6 +65,15 @@ object Form1: TForm1
       object Produtos3: TMenuItem
         Caption = 'Produtos'
       end
+      object Demandas1: TMenuItem
+        Caption = 'Demandas'
+      end
+      object N4: TMenuItem
+        Caption = '-'
+      end
+      object Valores1: TMenuItem
+        Caption = 'Valores'
+      end
     end
   end
 end

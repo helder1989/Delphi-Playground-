@@ -25,6 +25,9 @@ type
     Vendedores1: TMenuItem;
     CriarNovoUsurio1: TMenuItem;
     DeletarUsurio1: TMenuItem;
+    Demandas1: TMenuItem;
+    N4: TMenuItem;
+    Valores1: TMenuItem;
   private
     { Private declarations }
   public
